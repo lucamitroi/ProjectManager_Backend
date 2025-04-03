@@ -15,9 +15,6 @@ project.nuget.cache
 *.nuget.g.props
 *.nuget.g.targets
 
-# Debug and launch settings (optional)
-launchSettings.json
-
 # Logs, databases, and temp files
 *.log
 *.db
